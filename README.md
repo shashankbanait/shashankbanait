@@ -24,15 +24,7 @@
 
 ---
 
-### ⚡ GitHub Stats (Live Updates)
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankbanait&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankbanait&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" />
-</p>
-
----
-
 ### 🧠 Focused Areas
 * **Generative AI:** Engineering text-to-image prompts and exploring LLM internal architectures.
-* [cite_start]**Architecture:** Optimizing RESTful APIs and asynchronous data processing[cite: 14, 20].
+* **Architecture:** Optimizing RESTful APIs and asynchronous data processing[cite: 14, 20].
 * **Cloud:** Currently pursuing AWS Cloud certifications to scale infrastructure.
