@@ -103,10 +103,9 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
+* 💼 LinkedIn: https://linkedin.com/in/shashankbanait
 * 🐙 GitHub: https://github.com/shashankbanait
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
+* 📧 Email: shashankbanait@gmail.com
 ---
 
 ## ⚡ Fun Section
